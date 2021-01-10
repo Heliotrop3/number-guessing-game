@@ -1,0 +1,42 @@
+{
+    "Invalid" : [
+        "If you continue to misbehave, I'll have to punish you.",
+        "Listen here, play by the rules or else...",
+        "Fortune favors the bold... unfortunately for you I do not.",
+        "Keep this up and you will run out of guesses!",
+        "When will you learn that your actions have conseqeunces?",
+        "You caught the part about punishing for invalid input right?",
+        "Did you read the rules?",
+        "Am I a joke to you?"
+    ],
+
+    "Over" : [
+        "Thats too large!",
+        "The number I am thinking of is smaller than that.",
+        "I am thinking of a smaller number.",
+        "The number I am thinking of is of a lower order of magnitude.",
+        "Try a smaller number.",
+        "Let me think... Nope, thats too high!",
+        "The number I am thinking of is less than that."
+    ],
+
+    "Under" : [
+        "My number is bigger than that!",
+        "Too small!",
+        "Not large enough!",
+        "Let me think... No, thats too small to be my number.",
+        "I am thinking of a larger number.",
+        "My number is larger than that!",
+        "My number is greater than that!"
+    ],
+
+    "Correct" : [
+        "Good guess, it's correct!",
+        "Yep, thats my number!",
+        "Hmmmm... You are correct!",
+        "Spot on!",
+        "Righteous answer, you are correct!",
+        "Let me think... Yes, that is in fact the number I am thinking of!",
+        "Let me consult with Grand Master Hoyle.....according to Hoyle, you are correct!"
+    ]
+}
